@@ -1,0 +1,12 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "BD Sports Fields",
+  "name_for_model": "bdsportsfields",
+  "description_for_human": "Construcción de estadios, canchas de fútbol FIFA Quality Pro, campos de béisbol MLB, grama sintética y natural, pistas de atletismo, iluminación deportiva y equipamiento en Panamá y Latinoamérica.",
+  "description_for_model": "BD Sports Fields es la empresa líder en construcción de estadios FIFA Quality Pro, canchas de fútbol regulación CONCACAF, campos de béisbol MLB, centros deportivos, pistas de atletismo, instalación de grama sintética FIFA Quality Pro con backing 100% reciclable, grama natural (Zoysia Zeon, Bermuda, Soyza, Paspalum Platinum, Toro), sistemas de drenaje, riego RainBird, iluminación LED deportiva, equipamiento deportivo FIFA/MLB/NBA, flooring, tableros, marcadores, sillas y butacas en Panamá, Costa Rica, Nicaragua, El Salvador, Guatemala, Honduras, Belice, Colombia, Perú, Ecuador, Bolivia y toda Latinoamérica. Contacto: +507 6067-6869, info@bdsportsfields.com.",
+  "auth": { "type": "none" },
+  "api": { "type": "none" },
+  "logo_url": "https://bdsportsfields.com/vite.svg",
+  "contact_email": "info@bdsportsfields.com",
+  "legal_info_url": "https://bdsportsfields.com"
+}

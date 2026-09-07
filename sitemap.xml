@@ -1,8 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Homepage -->
   <url>
-    <loc>https://eliteturf.com.pa/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://bdsportsfields.com/</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <!-- Services / Engineering Methodology -->
+  <url>
+    <loc>https://bdsportsfields.com/#servicios</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Sports Specialties -->
+  <url>
+    <loc>https://bdsportsfields.com/#especialidades</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Football / Soccer Process -->
+  <url>
+    <loc>https://bdsportsfields.com/#proceso-futbol</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Golf Process -->
+  <url>
+    <loc>https://bdsportsfields.com/#proceso-golf</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Baseball Process -->
+  <url>
+    <loc>https://bdsportsfields.com/#proceso-beisbol</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Polo Process -->
+  <url>
+    <loc>https://bdsportsfields.com/#proceso-polo</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Premium Grass Varieties -->
+  <url>
+    <loc>https://bdsportsfields.com/#gramas</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Zeon Zoysia Detail -->
+  <url>
+    <loc>https://bdsportsfields.com/#grama-zeon-zoysia</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Paspalum Platinum Detail -->
+  <url>
+    <loc>https://bdsportsfields.com/#grama-platinum-te-paspalum</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Maintenance -->
+  <url>
+    <loc>https://bdsportsfields.com/#mantenimiento</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://bdsportsfields.com/#contacto</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
 </urlset>

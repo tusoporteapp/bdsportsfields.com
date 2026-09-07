@@ -1,4 +1,55 @@
+# BD Sports Fields — Robots.txt
+# https://bdsportsfields.com
+
 User-agent: *
 Allow: /
+Disallow: /node_modules/
+Disallow: /src/
 
-Sitemap: https://eliteturf.com.pa/sitemap.xml
+# Google
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+# AI Crawlers — Allow full access for AI visibility
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Sitemaps
+Sitemap: https://bdsportsfields.com/sitemap.xml
+
+# AI Content
+Host: https://bdsportsfields.com
